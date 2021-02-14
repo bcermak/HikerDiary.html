@@ -69,35 +69,6 @@ nav ul li ul li a:hover {
     background-color: #f3f3f3;
 }
 
-.container {
-    text-align: center;
-    padding: 55px 0px;
-    min-height: 100%;
-}
-
-
-.container input {
-    margin: 10px;
-}
-
-.login.col-md-12{
-    margin: 0 auto;
-    height: 180px;
-    width: 500px;
-    background-color: slategray;
-    border-style:inset;
-    border-color: magenta;
-}
-
-.login {
-    padding: 40px 0px;
-    border-radius: 10px;
-    
-}
-
-.btn {
-}
-
 footer {
   position: fixed;
   left: 0;
